@@ -1,0 +1,42 @@
+h2{
+    color: greenyellow;
+    text-align: center;
+}
+.main{
+    background-color: palevioletred;
+    border: 5px solid gold;
+    width: 200px;
+    margin: 0 auto;
+}
+.result{
+    width: 193px;
+    background-color: beige;
+    color: orange;
+}
+.clear{
+    width: 200px;
+    margin-top: 10px;
+    background-color:violet;
+}
+
+.clear:hover{
+    background-color: greenyellow;
+}
+.btn{
+    width: 47px;
+    background-color: violet;
+    margin-top: 2px;
+}
+.btn:hover{
+    background-color: greenyellow
+}
+.spBtn{
+    background-color: violet;
+    margin-top: 2px;
+    width: 47px;
+}
+
+.spBtn:hover{
+    background-color:greenyellow ;
+}
+
